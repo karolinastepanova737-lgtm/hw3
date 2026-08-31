@@ -22,7 +22,6 @@ public class Main {
         System.out.println();
 
 
-
         // ЗАДАЧА 2: Подбор типов данных
 
         System.out.println("--- ЗАДАЧА 2 ---");
