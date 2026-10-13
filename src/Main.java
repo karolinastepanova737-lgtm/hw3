@@ -2,7 +2,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
         // ЗАДАЧА 1: Переменные базовых типов
 
         System.out.println("--- ЗАДАЧА 1 ---");
@@ -20,7 +19,6 @@ public class Main {
         System.out.println("Значение переменной floatValue с типом float равно " + floatValue);
         System.out.println("Значение переменной doubleValue с типом double равно " + doubleValue);
         System.out.println();
-
 
 
         // ЗАДАЧА 2: Подбор типов данных
